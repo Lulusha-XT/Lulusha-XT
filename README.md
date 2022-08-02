@@ -29,4 +29,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lulusha-xt&theme=dark" alt="lulusha-xt" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alulusha-xt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
