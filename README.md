@@ -28,4 +28,5 @@
 
 
 <p><img align="center" background-color = "black" src="https://github-readme-streak-stats.herokuapp.com/?user=lulusha-xt&" alt="lulusha-xt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lulusha-xt&theme=dark" alt="lulusha-xt" /></p>
 
