@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lulusha-xt&show_icons=true&locale=en" alt="lulusha-xt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lulusha-xt&" alt="lulusha-xt" /></p>
+<p><img align="center" background-color = "black" src="https://github-readme-streak-stats.herokuapp.com/?user=lulusha-xt&" alt="lulusha-xt" /></p>
 
