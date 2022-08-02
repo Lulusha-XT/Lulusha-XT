@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Leul Sileshi</h1>
 <h3 align="center">A passionate software engineer student from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://https://https://wallpapershome.com/movies/animation/home-best-animation-movies-of-2015-cartoon-6594.html#google_vignette">
+<img align="right" alt="Coding" width="400" src="https://https://https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lulusha-xt&label=Profile%20views&color=0e75b6&style=flat" alt="lulusha-xt" /> </p>
 
