@@ -27,6 +27,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulusha-xt&show&show_icons=true&theme=radical)
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lulusha-xt&show_icons=true&locale=en&layout=compact" alt="lulusha-xt" /></p>
 
+<
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lulusha-xt&theme=dark" alt="lulusha-xt" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulusha-xt&layout=compact)](https://github.com/lulusha-xt/github-readme-stats)
