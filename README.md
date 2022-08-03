@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Leulsileshi7@gmail.com**
 
-- ⚡ Fun fact **Curious**
+- ⚡ Fun fact **Curious And Team Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
