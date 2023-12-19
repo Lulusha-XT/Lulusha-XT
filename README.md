@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Leul Sileshi</h1>
-<h3 align="center">A passionate software engineer student from Ethiopia</h3>
+<h3 align="center">A passionate software engineer student from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/QHE5gWI0QjqF2/200w.gif?cid=82a1493b9v8f8uaccqnnw10wrobsi0kudu66rm6kxhzq0y14&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lulusha-xt&label=Profile%20views&color=0e75b6&style=flat" alt="lulusha-xt" /> </p>
 
 <p align="left"> <a href="https://twitter.com/LeulSileshi" target="blank"><img src="https://img.shields.io/twitter/follow/LeulSileshi?logo=twitter&style=for-the-badge" alt="LeulSileshi" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering at ALX Africa**
+- 🌱 I’m currently learning **Artificial intelligence at University of verona**
 
 - 📫 How to reach me **Leulsileshi7@gmail.com**
 
