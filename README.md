@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Leul Sileshi</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">A passionate software engineer student from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/QHE5gWI0QjqF2/200w.gif?cid=82a1493b9v8f8uaccqnnw10wrobsi0kudu66rm6kxhzq0y14&rid=200w.gif&ct=g">
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial intelligence at University of verona**
 
-- 📫 How to reach me **Leulsileshi7@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **Curious And Team Player**
 
