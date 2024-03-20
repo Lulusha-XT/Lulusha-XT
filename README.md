@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lulusha-xt&label=Profile%20views&color=0e75b6&style=flat" alt="lulusha-xt" /> </p>
 
-<p align="left"> <a href="https://twitter.com/LeulSileshi" target="blank"><img src="https://img.shields.io/twitter/follow/LeulSileshi?logo=twitter&style=for-the-badge" alt="LeulSileshi" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial intelligence at University of verona**
 
