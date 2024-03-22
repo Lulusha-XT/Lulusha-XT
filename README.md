@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial intelligence at University of verona**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me ****
 
